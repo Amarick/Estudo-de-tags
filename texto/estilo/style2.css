@@ -1,0 +1,15 @@
+.menu{
+    text-align: left;
+}
+.destaque {
+   text-align: center;
+    font-weight: 900; 
+}
+.rodape {
+    text-align: right;
+    font-size: 12px;
+}
+.texto {
+    text-align: justify;
+    font-style: italic;
+}
