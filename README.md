@@ -16,6 +16,6 @@ Sinta-se à vontade para explorar o conteúdo deste repositório e usar os exemp
 [Documentação oficial do HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)<br>
 [Guia de HTML da W3Schools](https://www.w3schools.com/html/) <br>
 [Introdução ao HTML na MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-# Contribuindo
-Se você quiser contribuir para este repositório, sinta-se à vontade para criar um pull request. Certifique-se de seguir as diretrizes de contribuição e as melhores práticas de codificação. 
-<h3>Se você decidir contribuir para este repositório, desde já agradeço muito pela ajuda em torná-lo ainda melhor!</h3>
+<!-- # Contribuindo -->
+<!-- Se você quiser contribuir para este repositório, sinta-se à vontade para criar um pull request. Certifique-se de seguir as diretrizes de contribuição e as melhores práticas de codificação.  -->
+<!-- <h3>Se você decidir contribuir para este repositório, desde já agradeço muito pela ajuda em torná-lo ainda melhor!</h3> -->
