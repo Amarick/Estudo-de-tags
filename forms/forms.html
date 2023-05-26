@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios em html</title>
+</head>
+<body>
+    <main>
+        <h1>Formulário</h1>
+        <hr>
+        <br>
+        <form>
+            <div>
+                <label for="texto">Nome:</label>
+                <input type="text" id="texto" placeholder="Informe o seu nome" name="nome">
+            </div>
+            <div>
+                <label for="senha">Senha:</label>
+                <input type="password" id="senha" placeholder="Informe a sua senha" name="senha">
+            </div>
+            <div>
+                <label for="email">E-mail:</label>
+                <input type="email" name="email" id="email">
+            </div>
+            <div>
+                <label for="data">Data de nascimento:</label>
+                <input type="date" name="data" id="data">
+            </div>
+            <div>
+                <label for="hora">Horário:</label>
+                <input type="time" name="hora" id="hora">
+            </div>
+            <div>
+                <label for="numero">Número:</label>
+                <input type="number" name="numero" id="numero">
+            </div>
+            <div>
+                <label for="arquivo">Adicione seus arquivos:</label>
+                <input type="file" name="arquivo" id="arquivo">
+            </div>
+            <div>
+                <label for="cor"></label>
+            </div>
+            <div>
+                <textarea name="bio" id="bio" cols="30" rows="10"></textarea>
+            </div>
+            <input type="color" name="cor" id="cor">
+            <input type="submit" name="enviar" id="enviar" value="Enviar">
+            <input type="reset" name="limpar" id="limpar" value="limpar">
+            <div>
+                <select name="select" id="select">
+                    <option value="" disabled selected>Selecione uma das opções...</option>
+                    <option value="receita">Receita</option>
+                    <option value="despesa">Despesa</option>
+                    <option value="transparencia">Transaparencia</option>
+                </select>
+            </div>
+        </form>
+    </main>
+
+    
+</body>
+</html>
